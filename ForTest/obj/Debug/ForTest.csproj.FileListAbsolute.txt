@@ -1,0 +1,2 @@
+E:\Binary Studio Academy\Stage 3\Code testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.exe.config
+E:\Binary Studio Academy\Code testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.exe.config
