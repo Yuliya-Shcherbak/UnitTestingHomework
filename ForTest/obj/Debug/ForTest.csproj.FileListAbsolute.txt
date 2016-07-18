@@ -1,2 +1,8 @@
 E:\Binary Studio Academy\Stage 3\Code testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.exe.config
 E:\Binary Studio Academy\Code testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.exe.config
+E:\Binary Studio Academy\Stage 3\UnitTestingHomework\ForTest\bin\Debug\ForTest.exe.config
+E:\Binary Studio Academy\Stage 3\UnitTestingHomework\ForTest\bin\Debug\ForTest.exe
+E:\Binary Studio Academy\Stage 3\UnitTestingHomework\ForTest\bin\Debug\ForTest.pdb
+E:\Binary Studio Academy\Stage 3\UnitTestingHomework\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
+E:\Binary Studio Academy\Stage 3\UnitTestingHomework\ForTest\obj\Debug\ForTest.exe
+E:\Binary Studio Academy\Stage 3\UnitTestingHomework\ForTest\obj\Debug\ForTest.pdb

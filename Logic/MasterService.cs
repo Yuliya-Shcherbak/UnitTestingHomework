@@ -25,9 +25,7 @@ namespace Logic
 
             return _algoService.DoubleSum(data);;
         }
-
-        //TODO: Make more methods
-
+        
         public double GetAverage()
         {
             var data = _dataService.GetAllData();
@@ -38,6 +36,21 @@ namespace Logic
         {
             var data = _dataService.GetMax();
             return _algoService.Sqr(data);
+        }
+        public double GetMinSqure()
+        {
+            var data = _dataService.GetAllData();
+            return _algoService.Sqr(_algoService.MinValue(data));
+        }
+
+        public double GetFunction()
+        {
+            var data = _dataService.GetAllData();
+            var doubleSum = _algoService.DoubleSum(data);
+            var min = _algoService.MinValue(data);
+            var average = _algoService.GetAverage(data);
+            var sqr = _algoService.Sqr(_dataService.ItemsCount);
+            return _algoService.Function(min, average, doubleSum, sqr);
         }
     }
 }
