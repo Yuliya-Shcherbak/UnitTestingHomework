@@ -3,3 +3,8 @@ E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\bin\Debug\Logic.pdb
 E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
 E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\obj\Debug\Logic.dll
 E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\obj\Debug\Logic.pdb
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\bin\Debug\Logic.dll
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\bin\Debug\Logic.pdb
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\obj\Debug\Logic.dll
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic\obj\Debug\Logic.pdb

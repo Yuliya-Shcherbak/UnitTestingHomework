@@ -7,3 +7,12 @@ E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\nunit
 E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\obj\Debug\Logic.Tests.csprojResolveAssemblyReference.cache
 E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\obj\Debug\Logic.Tests.dll
 E:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\obj\Debug\Logic.Tests.pdb
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\Logic.Tests.dll
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\Logic.Tests.pdb
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\Logic.dll
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\nunit.framework.dll
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\Logic.pdb
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\bin\Debug\nunit.framework.xml
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\obj\Debug\Logic.Tests.csprojResolveAssemblyReference.cache
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\obj\Debug\Logic.Tests.dll
+D:\Binary Studio Academy\Stage 3\UnitTestingHomework\Logic.Tests\obj\Debug\Logic.Tests.pdb

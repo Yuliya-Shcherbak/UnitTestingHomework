@@ -17,8 +17,18 @@ namespace Logic
 
         public int GetDoubleSum()
         {
+            try
+            {
+                _dataService.GetAllData();
+            }
+            catch (NullReferenceException)
+            {
+                throw new InvalidOperationException("We have no data to process");
+            }
+
             var data = _dataService.GetAllData();
-            if (data == null || !data.Any())
+
+            if (!data.Any())
             {
                 throw new InvalidOperationException("We have no data to process");
             }
